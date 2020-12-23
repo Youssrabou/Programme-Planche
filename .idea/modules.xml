@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP_Planche.iml" filepath="$PROJECT_DIR$/TP_Planche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpPlanche-application/TpPlanche-application.iml" filepath="$PROJECT_DIR$/TpPlanche-application/TpPlanche-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpPlanche-domaine/TpPlanche-domaine.iml" filepath="$PROJECT_DIR$/TpPlanche-domaine/TpPlanche-domaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpPlanche-exposition/TpPlanche-exposition.iml" filepath="$PROJECT_DIR$/TpPlanche-exposition/TpPlanche-exposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpPlanche-infra/TpPlanche-infra.iml" filepath="$PROJECT_DIR$/TpPlanche-infra/TpPlanche-infra.iml" />
+    </modules>
+  </component>
+</project>

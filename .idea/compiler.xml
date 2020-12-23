@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TpPlanche-application" />
+        <module name="TpPlanche-domaine" />
+        <module name="TpPlanche-infra" />
+        <module name="TpPlanche-exposition" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="TP_Planche" target="11" />
+      <module name="TpPlanche-application" target="11" />
+      <module name="TpPlanche-domaine" target="11" />
+      <module name="TpPlanche-exposition" target="11" />
+      <module name="TpPlanche-infra" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
